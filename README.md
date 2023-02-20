@@ -1,4 +1,10 @@
-# Frontend Mentor - Product preview card component
+# Frontend Mentor Challenge - Product Preview Card Component
+
+<h4 align="center">
+
+[Access here](https://harshp20.github.io/Frontend-Mentor-Challenge-Product-Card-Component/)
+
+</h4>
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
 
